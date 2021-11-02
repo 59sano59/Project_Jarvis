@@ -9,4 +9,5 @@ I have used tensorfow 2.0 in my project and try to find best way to teach it to 
 Now the code uses routes trough my own pc to open google chrome and workin with other functions.
 
 
+
 The idea with this is to 3d print IronMan helmet with moving parts and put this JARVIS to control it.
