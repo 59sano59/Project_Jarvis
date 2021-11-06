@@ -11,7 +11,6 @@ I also made a small controll panel wich can start this JARVIS also.
 For that I used QtDesigner (photos and gifs used in code are not added in GitHub).
 
 
-https://youtu.be/3QIoUYk1FYs
-
+https://youtu.be/OOeAtxauf3c
 
 The idea with this is to 3d print IronMan helmet with moving parts and put this JARVIS to control it.
