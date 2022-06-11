@@ -1,0 +1,22 @@
+{
+    "python.pythonPath": "/opt/venv/bin/python",
+    "python.testing.pytestArgs": [
+    "tests/unit"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.envFile": "${workspaceFolder}/.vscode/.env",
+    "python.testing.cwd": "${worksplaceFolder}",
+    "python.jediEnabled": true,
+    "python.languageServer": "Jedi",
+    "terminal.integrated.env.osx": {
+    "PYTHONPATH": "${worksplaceFolder}",
+    },
+    "terminal.integrated.env.linux": {
+    "PYTHONPATH": "${worksplaceFolder}",
+    },
+    "terminal.integrated.env.windows": {
+    "PYTHONPATH": "${worksplaceFolder}"
+    }
+    }
